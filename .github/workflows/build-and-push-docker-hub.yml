@@ -33,6 +33,9 @@ jobs:
           tags: lamdb/ci-cd:staging2
 
 
+
+#htuthu
+
   pull-and-up:
     name: Pull new image and re run with the new version
     runs-on: ubuntu-latest
